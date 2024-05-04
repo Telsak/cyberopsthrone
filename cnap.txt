@@ -1,0 +1,58 @@
+
+.      │░█████▀▀▓██████  ▀▀▀▀▀▀▀▀▓██████      ▀ ▀▀▓█████  ▀▀▀▀▀▀▀▀▓██████      .
+.      │▒█████          │░█████ │▓██████ │▓██▀█▀▀▀▓█████ │░█████ │▓██████
+.      │▓█████          │▒█████ │▓██████ │▓█████ │▓█████ │▒█████ │▓██████      :
+:      │▓█████▄▄▓██████▄│▓█████ │▓██████▄│▓█████▄▄▓█████▄│▓███████▓██████      |
+└───────────────·───────────────·─────────────·────────── ▓██████▄ ─────·──────┘
+                                                                   dGlueXVybAo=
+                              [ P r e s e n t s ]                              
+                                                                               
+                       CyberOps Throne - Challenge Three                       
+ · ─ -·-───────────────────────────────────────────────────────────────--·─ ─ ·
+  Category : Cryptography                 : Created : April 18th, Time: 21:43 
+  Difficulty  : Beginner?                 : Scoring : Time, uniqueness        
+ · ─ -·-───────────────────────────────────────────────────────────────--·─ ─ ·
+                 # crypto_2024.py -- Python 3.9.5 - 113 lines                  
+ · ─ -·-───────────────────────────────────────────────────────────────--·─ ─ ·
+                            [ G a m e   N o t ê s ]                           
+
+  Quietly, in the neon-soaked shadows of University West, operators from dark  
+  corners of the globe converge for the cyberops throne tertiary challenge.    
+  Using nothing but your wits and tenacity, tonight you need to step into the  
+  arena where the digital elite do battle. Grim resolve will guide your way.   
+
+  Knowledge obtained from mentors of old is key to conquering this year’s      
+  cryptography puzzle, dubbed "the black ice"; a message that's encrypted      
+  first by an old-school caesar cipher and afterwards interwoven deeply with   
+  a complex transposition cipher. Knowing the coordinates will lead you to a   
+  legendary data cache, hidden deep in the digital wasteland of cyberspace.    
+
+  Haste stumbles your rivals, while you as the chosen must ascend beyond your  
+  form in order to see beyond the apparent. Underneath the mundane, reality    
+  buckles to reveal the occult data underneath.                                
+
+  Watch closely, for all i$ not what it seem.                                  
+
+  In this realm, where shadows hold power and secrecy is paramount - one thing 
+  remains a sacred truth:                                                      
+
+           "As for all tasks, there are more than one step to success.            
+            Primary units of every part shall reveal the hidden phrase.
+            Revelations exist within the confines of start and the end.
+            In search of the emperors and loom keys, look to the past.
+            Learning the word of power, vigorously engage a german left."
+
+                                                - Albert C. Rostic            
+
+  Good luck!                                                                   
+ · ─ -·-───────────────────────────────────────────────────────────────--·─ ─ ·
+                      [ A s s i g n m e n t   N o t e s ]                      
+
+                        Encrypted message: ENCRYPTED_MESSAGE
+                        Ceasar cipher key: CEASAR_KEY
+                        Transposition key: TRANSPOSITION_KEY
+                        Use character set: A-Z, capitals only
+
+           Beware of defensive ICE that will block further attempts!!           
+· ─ -·-───────────────────────────────────────────────────────────────--·─ ─ ·
+
